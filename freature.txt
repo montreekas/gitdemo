@@ -1,2 +1,3 @@
-- Promotion 1
-- Payment 1
+- Promotion 2
+- Payment 2
+- Mode 2
