@@ -1,0 +1,23 @@
+{
+  "name": "Test",
+  "version": "1.0.0",
+  "description": "sssss",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/montreekas/gitdemo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/montreekas/gitdemo/issues"
+  },
+  "homepage": "https://github.com/montreekas/gitdemo#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
